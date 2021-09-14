@@ -6,6 +6,12 @@ We do not have the raw data sources available on this Github due to file constra
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions. 
 
+## vest-co-2020
+
+RDH's partner data validation for VEST's 2020 CO file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4863166&version=17.0).
+
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-colorado-precinct-boundaries-and-election-results-shapefile/).
+
 ## vest-co-2018
 
 RDH's partner data validation for VEST's 2018 CO file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/PPH2WE&version=36.0).
@@ -14,4 +20,6 @@ View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-
 
 ## vest-co-2016
 
-#### _Still in progress as of 5/19/21_
+RDH's partner data validation for VEST's 2016 CO file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/XSXFA1&version=67.0).
+
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-colorado-precinct-and-election-results/).
