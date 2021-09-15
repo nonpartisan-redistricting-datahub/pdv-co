@@ -30,6 +30,8 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - https://www.arapahoegov.com/1151/GIS-Data-Download
 - Boulder County Shapefile
   - Received precincts from Brad Light blight@bouldercounty.org
+- Chaffee County Precinct Map
+  - https://chaffeeclerk.colorado.gov/sites/chaffeeclerk/files/Voting-Precincts.pdf
 - Delta County Shapefile
   - Requested data from gis@deltacounty.com, shapefiles received via email from Carrie Derco, GIS coordinator at Delta county
 - Denver County Shapefile
